@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "840839590649",
+    "firebase_url": "https://flogger-f882f.firebaseio.com",
+    "project_id": "flogger-f882f",
+    "storage_bucket": "flogger-f882f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:840839590649:android:097ffeb69f57379aa46828",
+        "android_client_info": {
+          "package_name": "com.example.blog_off"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "840839590649-p8aeelll8u0sdc3fnrj4njandmlsb7pq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDDTIJItAo97kQszOhPka-W599BOieSYxE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "840839590649-p8aeelll8u0sdc3fnrj4njandmlsb7pq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
